@@ -1,2 +1,2 @@
-# saltstack-minion
-saltstack minion based on centos 8
+# docker-saltstack-minion
+Dockerfile for saltstack minion based on centos 8
